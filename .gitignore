@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.thumbs.db
+node_modules/
+dist/
+npm-debug.log*
+cordova/platforms
+cordova/plugins
+/config/dev.env.js
+/.dev/
+/.idea
+
